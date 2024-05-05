@@ -7,3 +7,5 @@ FROM
     order_details
         JOIN
     pizzas ON pizzas.pizza_id = order_details.pizza_id
+    
+-- Second question solved
